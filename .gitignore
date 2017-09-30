@@ -286,3 +286,4 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/WindowsFormsApplication1/WindowsFormsApplication1/Properties
